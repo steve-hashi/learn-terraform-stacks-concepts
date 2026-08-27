@@ -6,7 +6,6 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-.terraform.lock.hcl
 
 # Ignore CLI configuration files
 .terraformrc
